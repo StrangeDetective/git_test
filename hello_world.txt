@@ -1,1 +1,3 @@
-
+Hello world!
+I'm attempting the odin project today
+I am going through git basics
